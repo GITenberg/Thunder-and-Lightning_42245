@@ -1,0 +1,41 @@
+_repo: Thunder-and-Lightning_42245
+_version: 0.1.0
+alternative_title: Les phénomènes de la foudre. English
+contributor:
+  translator:
+    agent_name: Mostyn, Walter
+    gutenberg_agent_id: '41301'
+    url: http://www.gutenberg.org/2009/agents/41301
+covers:
+- cover_type: archival
+  image_path: 42245-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: Flammarion, Camille
+    aliases:
+    - Flammarion, Nicolas Camille
+    - Filamaryon, Kamil
+    birthdate: 1842
+    deathdate: 1925
+    gutenberg_agent_id: '8763'
+    url: http://www.gutenberg.org/2009/agents/8763
+    wikipedia: http://en.wikipedia.org/wiki/Camille_Flammarion
+description: ''
+gutenberg_issued: '2013-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42245'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lightning'
+- !lcc 'QC'
+tableOfContents: The victims of lightning -- Atmospheric electricity and storm-clouds
+  -- The flash and the sound -- Fireballs -- The effects of lightning on mankind --
+  The effects of lightning on animals -- The effects of lightning on trees and plants
+  -- The effects of lightning on metals, objects, houses, etc -- Lightning conductors
+  -- Pictures made by lightning.
+title: Thunder and Lightning
+url: http://www.gutenberg.org/ebooks/42245
