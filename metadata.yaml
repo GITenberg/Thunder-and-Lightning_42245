@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8763
     wikipedia: http://en.wikipedia.org/wiki/Camille_Flammarion
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42245#Thunder-and-Lightning
 gutenberg_issued: '2013-03-02'
 gutenberg_type: Text
 identifiers:
